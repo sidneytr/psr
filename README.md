@@ -1,2 +1,2 @@
 # psr
-psc adaptation to python
+psc adaptation to python for tnc
